@@ -1,4 +1,3 @@
-````markdown
 # 🔧 Фикс «Not enough IDs / lua_pcall_failed» для S.T.A.L.K.E.R. Global War
 
 **Исправляет**:
